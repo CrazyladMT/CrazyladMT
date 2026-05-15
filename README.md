@@ -1,6 +1,5 @@
-<a href="https://github.com/CrazyladMT"><img src="https://github-readme-stats.vercel.app/api?username=CrazyladMT&theme=github_dark" alt="CrazyladMT's GitHub stats" style="max-width: 100%;"></a>
-<a href="https://github.com/CrazyladMT"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CrazyladMT&theme=github_dark&layout=compact" alt="Top Langs" style="max-width: 100%;"></a>
+<div align="center">
+    <br />
+    <a href="https://u8views.com/github/CrazyladMT"><img src="https://u8views.com/api/v1/github/profiles/247920740/views/day-week-month-total-count.svg"></a>
+</div>
 
-<!--
-**CrazyladMT/CrazyladMT** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
--->
